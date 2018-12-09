@@ -1,3 +1,6 @@
+// can you update this wonderful code, I want to use it nowadays
+
+
 <?php
 
 $time = time();
